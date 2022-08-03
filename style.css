@@ -1,0 +1,29 @@
+*{
+    --color1: #780116;
+    --color2: #F7B538;
+    --color3: #DB7C26;
+    --color4: #D8572A;
+    --color5: #c32f27;
+}
+
+h1{
+    color: var(--color1);
+}
+
+h2{
+    color: var(--color2);
+}
+
+h4{
+    color: var(--color4)
+}
+
+body{
+    font-family: "Roboto Slab";
+    background-image: url(background.jpg);
+}
+
+ul{
+    color: var(--color3);
+}
+
